@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/Image/header.jpeg" width="400">
+<img src="/Image/header.jpg" width="400">
 
 ### Introduction 
 
